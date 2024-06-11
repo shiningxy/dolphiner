@@ -1,0 +1,7 @@
+geatpy
+loguru
+pandas
+openpyxl
+rdp
+plotly
+kaleido
